@@ -1,0 +1,30 @@
+res/values/cm_strings.xml:169:    <string name="toggleWifiAp">Portable Wi-Fi hotspot</string>
+res/values/strings.xml:1639:    <string name="wifi_tether_checkbox_text">Portable Wi\u2011Fi hotspot</string>
+res/values/strings.xml:1645:    <string name="wifi_tether_enabled_subtext">Portable hotspot <xliff:g id="network_ssid">%1$s</xliff:g> active</string>
+res/values/strings.xml:1647:    <string name="wifi_tether_failed_subtext">Portable Wi\u2011Fi hotspot error</string>
+res/values/strings.xml:1651:    <string name="wifi_tether_configure_subtext"><xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> portable Wi\u2011Fi hotspot</string>
+res/values/strings.xml:2346:    <string name="tether_settings_title_wifi">Portable hotspot</string>
+res/values/strings.xml:2352:    <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
+res/values-en-rGB/strings.xml:675:    <string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Portable Wi‑Fi hotspot"</string>
+res/values-en-rGB/strings.xml:678:    <string name="wifi_tether_enabled_subtext" msgid="8948641212931906143">"Portable hotspot <xliff:g id="NETWORK_SSID">%1$s</xliff:g> active"</string>
+res/values-en-rGB/strings.xml:679:    <string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Portable Wi‑Fi hotspot error"</string>
+res/values-en-rGB/strings.xml:681:    <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> portable Wi‑Fi hotspot"</string>
+res/values-en-rGB/strings.xml:964:    <string name="tether_settings_title_wifi" msgid="3277144155960302049">"Portable hotspot"</string>
+res/values-en-rGB/strings.xml:967:    <string name="tether_settings_title_all" msgid="8356136101061143841">"Tethering &amp; portable hotspot"</string>
+res/values-en-rIN/strings.xml:675:    <string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Portable Wi‑Fi hotspot"</string>
+res/values-en-rIN/strings.xml:678:    <string name="wifi_tether_enabled_subtext" msgid="8948641212931906143">"Portable hotspot <xliff:g id="NETWORK_SSID">%1$s</xliff:g> active"</string>
+res/values-en-rIN/strings.xml:679:    <string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Portable Wi‑Fi hotspot error"</string>
+res/values-en-rIN/strings.xml:681:    <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> portable Wi‑Fi hotspot"</string>
+res/values-en-rIN/strings.xml:964:    <string name="tether_settings_title_wifi" msgid="3277144155960302049">"Portable hotspot"</string>
+res/values-en-rIN/strings.xml:967:    <string name="tether_settings_title_all" msgid="8356136101061143841">"Tethering &amp; portable hotspot"</string>
+res/values-ku/strings.xml:691:  <string name="wifi_tether_checkbox_text">Portable Wi\u2011Fi hotspot</string>
+res/values-ku/strings.xml:694:  <string name="wifi_tether_enabled_subtext">Portable hotspot <xliff:g id="network_ssid">%1$s</xliff:g> چالاکە</string>
+res/values-ku/strings.xml:695:  <string name="wifi_tether_failed_subtext">Portable Wi\u2011Fi hotspot هەڵە بوو</string>
+res/values-ku/strings.xml:697:  <string name="wifi_tether_configure_subtext"><xliff:g id="network_ssid">%1$s</xliff:g> <xliff:g id="network_security">%2$s</xliff:g> portable Wi\u2011Fi hotspot</string>
+res/values-tl/strings.xml:675:    <string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Portable na Wi-Fi hotspot"</string>
+res/values-tl/strings.xml:678:    <string name="wifi_tether_enabled_subtext" msgid="8948641212931906143">"Ang Portable na hotspot na <xliff:g id="NETWORK_SSID">%1$s</xliff:g> ay aktibo"</string>
+res/values-tl/strings.xml:679:    <string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Error sa portable na Wi-Fi hotspot"</string>
+res/values-tl/strings.xml:681:    <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> portable na Wi‑Fi hotspot"</string>
+res/values-tl/strings.xml:964:    <string name="tether_settings_title_wifi" msgid="3277144155960302049">"Portable na hotspot"</string>
+res/values-tl/strings.xml:967:    <string name="tether_settings_title_all" msgid="8356136101061143841">"Pag-tether &amp; portable na hotspot"</string>
+src/com/android/settings/TetherSettings.java:625:     * @return whether Tether & portable hotspot should be shown in the shortcuts picker.
