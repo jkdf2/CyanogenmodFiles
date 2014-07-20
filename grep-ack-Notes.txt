@@ -1,0 +1,16 @@
+grep -Hnirs 'WORD' * | tee ../results.txt
+grep --with-filename --line-number --ignore-case --recursive --no-messages
+
+ack -Hir 'tethering' * | tee ../results.txt
+ack --with-filename --ignore-case --recurse
+
+ag -i 'tethering' * | tee ../results.txt
+ag --ignore-case
+try: --stats
+--context prints 2 before and 2 after
+
+--invert-match for opposites
+
+--ignore=*.xml
+
+unbuffer allows for colored characters in terminal
