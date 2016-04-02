@@ -6,3 +6,6 @@ base/packages/SystemUI/src/com/android/systemui/qs/tiles/CaffeineTile.java
 
 Relevant commit:
 http://review.cyanogenmod.org/#/c/131426/
+
+Questions:
+- How did he get the XML for the coffee cup image?
