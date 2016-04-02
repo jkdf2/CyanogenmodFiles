@@ -3,3 +3,6 @@ base/packages/SystemUI/src/com/android/systemui/statusbar/phone/QSTileHost.java
 
 The caffeine-specific tile:
 base/packages/SystemUI/src/com/android/systemui/qs/tiles/CaffeineTile.java
+
+Relevant commit:
+http://review.cyanogenmod.org/#/c/131426/
