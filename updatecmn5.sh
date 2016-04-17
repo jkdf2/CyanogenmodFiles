@@ -5,7 +5,7 @@ cmn5directory=~/Desktop/android/cm13
 echo 'Updating the Nexus 5 CM11 repository located at:' $cmn5directory
 cd $cmn5directory
 echo 'Beginning by syncing the directory.'
-# repo sync
+repo sync
 echo 'Nexus 5 CM11 repository updated!'
 echo "Updating breakfast for hammerhead."
 source build/envsetup.sh
