@@ -1,0 +1,4 @@
+qs/tiles/EditTile.java:63:        state.label = mContext.getString(R.string.quick_settings_edit_label);
+statusbar/phone/QSTileHost.java:452:        else if (spec.equals("edit")) return R.string.quick_settings_edit_label;
+statusbar/phone/StatusBarHeaderView.java:808:                    return R.string.quick_settings_edit_label;
+statusbar/phone/StatusBarHeaderView.java:969:                if (detail.getTitle() == R.string.quick_settings_edit_label) {
